@@ -1,6 +1,0 @@
-{
-  "name": "edgeone-sms",
-  "buildCommand": "echo 'No build required'",
-  "outputDirectory": ".",
-  "devCommand": "npx serve ."
-}
